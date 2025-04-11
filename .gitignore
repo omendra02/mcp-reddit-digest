@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output and cache
+output/
+*.pdf
+
+
+*.sqlite3
+
+# Secrets
+.env
+imp.txt
+run_once.py
+__init__.py
+config.json
+config/

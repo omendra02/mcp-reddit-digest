@@ -1,0 +1,23 @@
+{
+  "schema_version": "v0.1.1",
+  "name": "basic-mcp-server",
+  "description": "A simple MCP server with hello and Reddit tools.",
+  "tools": [
+    {
+      "name": "hello",
+      "description": "Says hello back to you.",
+      "input_type": "text",
+      "output_type": "text",
+      "endpoint": "/mcp/hello",
+      "method": "POST"
+    },
+    {
+      "name": "reddit",
+      "description": "Fetches and compares tech news from Reddit.",
+      "input_type": "text",
+      "output_type": "text",
+      "endpoint": "/mcp/reddit",
+      "method": "POST"
+    }
+  ]
+}
