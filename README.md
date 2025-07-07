@@ -12,7 +12,7 @@ A FastAPI-based MCP (Model Context Protocol) server that automatically fetches, 
 - ⏱️ **Scheduled Delivery**: Configure automated digests on a daily or custom schedule
 - 🧩 **Modular Architecture**: Easily extend with new features or integrations
 
-## Getting Started
+## Certified by MCPHub : [Reddit Digest - omendra02 MCP Server](https://mcphub.com/mcp-servers/omendra02/mcp-reddit-digest)
 
 ### Prerequisites
 
